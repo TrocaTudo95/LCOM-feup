@@ -1,0 +1,5 @@
+<map id="drawBitmap" name="drawBitmap">
+<area shape="rect" id="node2" href="$video__gr_8c.html#a79e4cb586f042c9742fd2728d3dc4442" title="Gets the current screen width in pixels. " alt="" coords="151,5,233,32"/>
+<area shape="rect" id="node3" href="$video__gr_8c.html#ab537ac2d6ef752e36b30281f9c08898a" title="Gets the current screen height in pixels. " alt="" coords="149,56,235,83"/>
+<area shape="rect" id="node4" href="$video__gr_8c.html#a7b593866d2afe0231639328c367f70e6" title="Gets the current address of the secondary framebuffer. " alt="" coords="144,107,240,133"/>
+</map>

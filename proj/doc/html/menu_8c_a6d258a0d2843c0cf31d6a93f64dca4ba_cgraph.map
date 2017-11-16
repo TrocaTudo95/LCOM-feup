@@ -1,0 +1,14 @@
+<map id="game_over" name="game_over">
+<area shape="rect" id="node2" href="$menu_8c.html#aad59e6b2ddf8de98fd1bd7532ca949b8" title="game_over" alt="" coords="167,5,251,32"/>
+<area shape="rect" id="node3" href="$group___bitmap.html#ga3506880ffd407c36eb8aaddd2c1606d2" title="Loads a bmp image. " alt="" coords="348,69,435,96"/>
+<area shape="rect" id="node4" href="$group___bitmap.html#ga08c1d4f4fff81df260d979ea8fc1aa61" title="Destroys the given bitmap, freeing all resources used by it. " alt="" coords="342,132,441,159"/>
+<area shape="rect" id="node5" href="$game_8c.html#a30332a032aa0d847a8d4f480f67643a2" title="Gets the number of decimal slots of an unsigned integer. " alt="" coords="137,360,281,387"/>
+<area shape="rect" id="node6" href="$video__gr_8c.html#ab537ac2d6ef752e36b30281f9c08898a" title="Gets the current screen height in pixels. " alt="" coords="506,259,593,285"/>
+<area shape="rect" id="node7" href="$group___bitmap.html#ga18d05a1c671f4638bc63d37874efb9d4" title="Draws an unscaled, unrotated bitmap at the given position. " alt="" coords="346,208,437,235"/>
+<area shape="rect" id="node8" href="$video__gr_8c.html#a79e4cb586f042c9742fd2728d3dc4442" title="Gets the current screen width in pixels. " alt="" coords="508,309,591,336"/>
+<area shape="rect" id="node10" href="$menu_8c.html#ad99903bd2f3605015e0564962b2d69d1" title="Draws a given number in a (x, y) position. Uses bitmaps for each digit. " alt="" coords="153,107,265,133"/>
+<area shape="rect" id="node11" href="$video__gr_8c.html#a0d30170602fb4469d105cd88e2fc8e44" title="Moves the content of the secondary framebuffer to the primary one. " alt="" coords="139,411,280,437"/>
+<area shape="rect" id="node12" href="$game_8c.html#afe5fb8cf29ba41e44f6e6f9d10ebce9f" title="Detects if user released ESC. " alt="" coords="164,461,255,488"/>
+<area shape="rect" id="node9" href="$video__gr_8c.html#a7b593866d2afe0231639328c367f70e6" title="Gets the current address of the secondary framebuffer. " alt="" coords="501,208,597,235"/>
+<area shape="rect" id="node13" href="$keyboard_8c.html#a7411130de0c847a00aba0acc9b28d4d1" title="Detects if ESC was used. Distinguishes between pressing and releasing ESC, and checks for errors with..." alt="" coords="329,461,453,488"/>
+</map>

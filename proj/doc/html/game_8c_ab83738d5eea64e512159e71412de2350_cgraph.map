@@ -1,0 +1,3 @@
+<map id="draw_digit" name="draw_digit">
+<area shape="rect" id="node2" href="$video__gr_8c.html#a12c51ae3b27c47b03b64b29a0f3a9b76" title="Draws a xpm on the secondary framebuffer. VBE mode must be 0x105 (1024x768, 256 colors). " alt="" coords="133,5,233,32"/>
+</map>

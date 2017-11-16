@@ -1,0 +1,4 @@
+<map id="canEat" name="canEat">
+<area shape="rect" id="node2" href="$game_8c.html#a09a81b6d9a2e9606364aa59ee7d9bac6" title="rangeIntersect" alt="" coords="116,5,220,32"/>
+<area shape="rect" id="node3" href="$game_8c.html#a66ee1e324f2611b4c9a91b8b347521ca" title="belongsInRange" alt="" coords="268,5,383,32"/>
+</map>

@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['background_5fcolor',['background_color',['../video__gr_8c.html#ad5c4dab4c21915688969b77c4f3fc964',1,'video_gr.c']]],
+  ['banksize',['BankSize',['../struct____attribute____.html#aa1307567cbc12f9c5c724b7457be14ad',1,'__attribute__']]],
+  ['bitmapdata',['bitmapData',['../struct_bitmap.html#a581eac36ec50d730299b6df60e644750',1,'Bitmap']]],
+  ['bitmapinfoheader',['bitmapInfoHeader',['../struct_bitmap.html#a95c481a5ce1ff4af08cd135ca4af120b',1,'Bitmap']]],
+  ['bits',['bits',['../struct_bitmap_info_header.html#a1eebafc33573852f62a2e3d8adc25349',1,'BitmapInfoHeader']]],
+  ['bits_5fper_5fpixel',['bits_per_pixel',['../video__gr_8c.html#a89fa3fb58e975d148fcb2413e24b78a1',1,'video_gr.c']]],
+  ['bitsperpixel',['BitsPerPixel',['../struct____attribute____.html#abd9c59af53589a54188bb57ada5c5f26',1,'__attribute__']]],
+  ['bluefieldposition',['BlueFieldPosition',['../struct____attribute____.html#ada852d5ed926757d24b5038a38e6292c',1,'__attribute__']]],
+  ['bluemasksize',['BlueMaskSize',['../struct____attribute____.html#ab5967602a79dcb7f0061195ffdaaa47a',1,'__attribute__']]],
+  ['bnknumberofimagepages',['BnkNumberOfImagePages',['../struct____attribute____.html#ad5820084f2b821b85a635df8394f0d9e',1,'__attribute__']]],
+  ['body',['body',['../pixmap_8h.html#acdfaf47ffc69b4fff55a434928fe0d4e',1,'pixmap.h']]],
+  ['bodycoords',['bodyCoords',['../struct_snake.html#a9243cb13fc026d547087010e06bf55cb',1,'Snake']]],
+  ['buf',['buf',['../structp___buffer.html#a19d6e3a50c40a13dea2911cef79c75c6',1,'p_Buffer']]],
+  ['bufcapacity',['bufCapacity',['../video__gr_8c.html#ab7106a6f68ec5a4dce13f518ed72d2fa',1,'video_gr.c']]],
+  ['bufsize',['bufSize',['../video__gr_8c.html#ab0dfec60329fc2a2a3b5eed835131268',1,'video_gr.c']]],
+  ['bytesperscanline',['BytesPerScanLine',['../struct____attribute____.html#a3c9eb4b107ecee102c6e63f9054ede06',1,'__attribute__']]]
+];

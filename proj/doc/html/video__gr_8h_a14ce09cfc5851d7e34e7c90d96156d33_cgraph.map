@@ -1,0 +1,3 @@
+<map id="initLowArea" name="initLowArea">
+<area shape="rect" id="node2" href="$group__lmlib.html#ga00a9c17c01e794a6bfc80fc5c6ab1ed1" title="Initializes the low memory area, the region up to the 1 MByte physical address, by mapping it on the ..." alt="" coords="143,5,203,32"/>
+</map>

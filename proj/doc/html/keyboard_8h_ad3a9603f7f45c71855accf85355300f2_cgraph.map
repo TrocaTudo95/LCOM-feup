@@ -1,0 +1,4 @@
+<map id="waitByKey" name="waitByKey">
+<area shape="rect" id="node2" href="$keyboard_8c.html#a77e2ed8f53e0fae3f4005fa26c6d2692" title="Subscribes the keyboard. If it&#39;s already subscribed, it prints an error message and returns &#45;1..." alt="" coords="145,5,271,32"/>
+<area shape="rect" id="node3" href="$keyboard_8c.html#a5bdf6cfb570c375192b0d87913b65c57" title="Unsubscribes the keyboard. If it&#39;s not initially subscribed, it prints an error message and returns &#45;..." alt="" coords="137,56,279,83"/>
+</map>

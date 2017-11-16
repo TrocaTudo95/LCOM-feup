@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['p_5fbuffer',['p_Buffer',['../structp___buffer.html',1,'']]],
+  ['palette_5fdata',['PALETTE_DATA',['../vbe_8h.html#a5447d7d235520c06784bd29783dd91b4',1,'vbe.h']]],
+  ['palette_5fformat',['PALETTE_FORMAT',['../vbe_8h.html#a4365a86c14afc29824ed5a4bfcd8cf86',1,'vbe.h']]],
+  ['pb2base',['PB2BASE',['../vbe_8h.html#a68b87c2339cb305d66b69b5551b96c73',1,'vbe.h']]],
+  ['pb2off',['PB2OFF',['../vbe_8h.html#a70c65ed4c6d71865daa96d31befb33fd',1,'vbe.h']]],
+  ['pf',['PF',['../_r_t_c_8h.html#aa0e278c26c25558741febfadd7216caa',1,'RTC.h']]],
+  ['phys',['phys',['../structmmap__t.html#aa6ac1ee0e0fadea4a4f85b48c8359ae4',1,'mmap_t']]],
+  ['physbaseptr',['PhysBasePtr',['../struct____attribute____.html#a852a4f68cfbabf08df197128e137bde6',1,'__attribute__']]],
+  ['pie',['PIE',['../_r_t_c_8h.html#ac40c2b49eb51e2adc237b530adfcadf4',1,'RTC.h']]],
+  ['pixmap_2eh',['pixmap.h',['../pixmap_8h.html',1,'']]],
+  ['planes',['planes',['../struct_bitmap_info_header.html#a9925e97e8bbc6b797afe2d22fbab45d6',1,'BitmapInfoHeader']]],
+  ['play',['play',['../game_8c.html#a1135dc44ca37a222d1272be1ec4169b5',1,'play(unsigned int difficulty, unsigned int *points):&#160;game.c'],['../game_8h.html#a1135dc44ca37a222d1272be1ec4169b5',1,'play(unsigned int difficulty, unsigned int *points):&#160;game.c']]],
+  ['pmam',['PMAM',['../_r_t_c_8h.html#aeec9f283274018823ce691598f3c48a6',1,'RTC.h']]],
+  ['point2d',['Point2D',['../struct_point2_d.html',1,'']]],
+  ['pos_5fslope_5fmov',['POS_SLOPE_MOV',['../mouse_8h.html#aa973dfedd3c56309d830b82314ac7588ad9cdca41e8cff2cbb998beb33e297208',1,'mouse.h']]],
+  ['positionconflict',['positionConflict',['../_misc_data_8c.html#a82720a2b823d80d3779a4d5c9d485249',1,'positionConflict(Rectangle r1, Rectangle r2):&#160;MiscData.c'],['../_misc_data_8h.html#a82720a2b823d80d3779a4d5c9d485249',1,'positionConflict(Rectangle r1, Rectangle r2):&#160;MiscData.c']]],
+  ['positionconflictarray',['positionConflictArray',['../_misc_data_8c.html#a1ee0fa4d30305c315ed229c7ce7a11d2',1,'positionConflictArray(Rectangle r1, Point2D *points, unsigned pointLength, short pointWidth, short pointHeight):&#160;MiscData.c'],['../_misc_data_8h.html#a1ee0fa4d30305c315ed229c7ce7a11d2',1,'positionConflictArray(Rectangle r1, Point2D *points, unsigned pointLength, short pointWidth, short pointHeight):&#160;MiscData.c']]],
+  ['pressedesc',['pressedEsc',['../game_8c.html#afe5fb8cf29ba41e44f6e6f9d10ebce9f',1,'pressedEsc():&#160;game.c'],['../game_8h.html#afe5fb8cf29ba41e44f6e6f9d10ebce9f',1,'pressedEsc():&#160;game.c']]],
+  ['primbufs',['primBufs',['../video__gr_8c.html#aad76fcbc62415e7fc46fb7c8cbfa2534',1,'video_gr.c']]],
+  ['printdatetime',['printDateTime',['../_r_t_c_8c.html#ab625d9b731af215d87153a6339b165e0',1,'printDateTime(DateTime *dt):&#160;RTC.c'],['../_r_t_c_8h.html#ab625d9b731af215d87153a6339b165e0',1,'printDateTime(DateTime *dt):&#160;RTC.c']]],
+  ['printmousepacket',['printMousePacket',['../mouse_8c.html#aabad97bdbae61fa90ad45fa8b6c24362',1,'printMousePacket(short packet[]):&#160;mouse.c'],['../mouse_8h.html#aabad97bdbae61fa90ad45fa8b6c24362',1,'printMousePacket(short packet[]):&#160;mouse.c']]],
+  ['printsnakeinfo',['printSnakeInfo',['../_snake_8c.html#ac36ff4b6c01b94b4338846fa1376b379',1,'printSnakeInfo(Snake *snake):&#160;Snake.c'],['../_snake_8h.html#ac36ff4b6c01b94b4338846fa1376b379',1,'printSnakeInfo(Snake *snake):&#160;Snake.c']]],
+  ['printtime',['printTime',['../_r_t_c_8c.html#a4c930d606b8cd1a0aa10a2503c40a526',1,'printTime(Time *t):&#160;RTC.c'],['../_r_t_c_8h.html#a4c930d606b8cd1a0aa10a2503c40a526',1,'printTime(Time *t):&#160;RTC.c']]]
+];

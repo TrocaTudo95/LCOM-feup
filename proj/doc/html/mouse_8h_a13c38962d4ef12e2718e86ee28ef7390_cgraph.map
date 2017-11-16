@@ -1,0 +1,6 @@
+<map id="mouse_get_packet" name="mouse_get_packet">
+<area shape="rect" id="node2" href="$mouse_8c.html#a99506573209b197b84ee22a228b89fbd" title="Subscribe the mouse. " alt="" coords="192,5,337,32"/>
+<area shape="rect" id="node3" href="$mouse_8c.html#acf825815861b85bbce8cd6aae8d7f44f" title="sendCmdToKBC" alt="" coords="205,56,324,83"/>
+<area shape="rect" id="node4" href="$mouse_8c.html#a685ad2706aca36d9869a30a19b9f446a" title="Unsubscribe the mouse. " alt="" coords="185,107,344,133"/>
+<area shape="rect" id="node5" href="$mouse_8c.html#a8b46ba0bbcfc9ea2e43aeb34f83f6083" title="get a byte form the OUT_BUF. " alt="" coords="199,157,330,184"/>
+</map>

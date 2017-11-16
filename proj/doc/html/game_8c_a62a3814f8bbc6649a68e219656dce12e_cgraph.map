@@ -1,0 +1,9 @@
+<map id="spawnEat" name="spawnEat">
+<area shape="rect" id="node2" href="$video__gr_8c.html#a79e4cb586f042c9742fd2728d3dc4442" title="Gets the current screen width in pixels. " alt="" coords="161,5,244,32"/>
+<area shape="rect" id="node3" href="$video__gr_8c.html#ab537ac2d6ef752e36b30281f9c08898a" title="Gets the current screen height in pixels. " alt="" coords="159,56,246,83"/>
+<area shape="rect" id="node4" href="$_misc_data_8c.html#a82720a2b823d80d3779a4d5c9d485249" title="Checks if 2 Rectangles overlap. " alt="" coords="321,132,432,159"/>
+<area shape="rect" id="node5" href="$_misc_data_8c.html#a1ee0fa4d30305c315ed229c7ce7a11d2" title="Checks if a Rectangle overlaps with any of an array of Rectangles. Rectangles from the array are obta..." alt="" coords="132,157,273,184"/>
+<area shape="rect" id="node6" href="$_misc_data_8c.html#a159add91e9238a8fd839fac3c9b44c62" title="Gets the xpm&#39;s width in pixels. " alt="" coords="153,208,252,235"/>
+<area shape="rect" id="node7" href="$_misc_data_8c.html#a0e189cc5fabe5da26540ec5527c3761b" title="Gets the xpm&#39;s height in pixels. " alt="" coords="151,259,254,285"/>
+<area shape="rect" id="node8" href="$video__gr_8c.html#a12c51ae3b27c47b03b64b29a0f3a9b76" title="Draws a xpm on the secondary framebuffer. VBE mode must be 0x105 (1024x768, 256 colors). " alt="" coords="153,309,253,336"/>
+</map>

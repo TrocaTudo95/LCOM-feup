@@ -1,0 +1,51 @@
+<map id="play" name="play">
+<area shape="rect" id="node2" href="$_snake_8c.html#a59243847827d4d9cffd89d18c4eae963" title="Creates a new Snake. Undefined start position, orientation and head xpm. Reserved memory for body len..." alt="" coords="129,5,212,32"/>
+<area shape="rect" id="node3" href="$game_8c.html#a4e3a822db37d5376e0c410d46bc13f95" title="draw_borders" alt="" coords="121,56,220,83"/>
+<area shape="rect" id="node6" href="$_snake_8c.html#a0f9200e633d8881b036e91a74f724111" title="Rotates Snake head to the required orientation. " alt="" coords="125,107,216,133"/>
+<area shape="rect" id="node7" href="$video__gr_8c.html#a12c51ae3b27c47b03b64b29a0f3a9b76" title="Draws a xpm on the secondary framebuffer. VBE mode must be 0x105 (1024x768, 256 colors). " alt="" coords="695,1095,795,1121"/>
+<area shape="rect" id="node8" href="$game_8c.html#a62a3814f8bbc6649a68e219656dce12e" title="spawnEat" alt="" coords="323,512,401,539"/>
+<area shape="rect" id="node13" href="$_misc_data_8c.html#a159add91e9238a8fd839fac3c9b44c62" title="Gets the xpm&#39;s width in pixels. " alt="" coords="513,411,611,437"/>
+<area shape="rect" id="node15" href="$timer_8c.html#a4c5d9f47323eda494cfd826f6d62eec9" title="Subscribes and enables Timer 0 interrupts. " alt="" coords="495,183,629,209"/>
+<area shape="rect" id="node16" href="$_r_t_c_8c.html#a60bc069037718ff393ef68518a97ee9f" title="Get the current time. " alt="" coords="137,335,205,361"/>
+<area shape="rect" id="node19" href="$timer_8c.html#ab9eea51549744bca5c5c923b388bb4ee" title="Unsubscribes Timer 0 interrupts. " alt="" coords="487,247,637,273"/>
+<area shape="rect" id="node21" href="$_snake_8c.html#ac341aeda030feec90f77de0842bfed94" title="Creates a copy of a given Snake. New Snake is independent of the previous one. " alt="" coords="127,613,214,640"/>
+<area shape="rect" id="node22" href="$game_8c.html#a2e7358ef5280120ddc71ff6038742ba1" title="Gets the direction from the mouse&#39;s movement. " alt="" coords="125,867,216,893"/>
+<area shape="rect" id="node27" href="$game_8c.html#a1475766375ddb4fdb7521175fda75d0c" title="treatMouseButtons" alt="" coords="105,715,237,741"/>
+<area shape="rect" id="node32" href="$video__gr_8c.html#a71665198bce1c277a0c2fb74450b3589" title="Replaces drawn xpm with the background color. " alt="" coords="311,816,413,843"/>
+<area shape="rect" id="node33" href="$game_8c.html#a0d69915eafbccbc3f68f2ed81c7aaac1" title="updateSnakePos" alt="" coords="301,563,423,589"/>
+<area shape="rect" id="node34" href="$_snake_8c.html#a668456423c867d2bdb4b59384725dc5e" title="Updates Snake head and body orientations for the next frame. " alt="" coords="125,917,216,944"/>
+<area shape="rect" id="node37" href="$game_8c.html#ac3592cbd74cbc1fc7e990687e22195bb" title="canEat" alt="" coords="139,1019,202,1045"/>
+<area shape="rect" id="node39" href="$_r_t_c_8c.html#a7657f694aac7ff1390fbb67414d6d757" title="Adds one second to a given time. " alt="" coords="117,968,224,995"/>
+<area shape="rect" id="node40" href="$_snake_8c.html#abe208f4454ff381002d2b233430471d8" title="Adds a body section to a given Snake. If Snake has no body, it is added behind the head..." alt="" coords="325,461,399,488"/>
+<area shape="rect" id="node41" href="$game_8c.html#aceeb4f4b1e827811f74229751ad869be" title="drawNumber" alt="" coords="315,1120,409,1147"/>
+<area shape="rect" id="node45" href="$_snake_8c.html#a9bba9f95efe6b798bc9885d6ba97dbdd" title="Clears a Snake&#39;s body. " alt="" coords="124,765,217,792"/>
+<area shape="rect" id="node46" href="$_snake_8c.html#aa45b920c369b139c0dfd8c3eebfea13d" title="Draws a Snake&#39;s body. " alt="" coords="523,1247,601,1273"/>
+<area shape="rect" id="node47" href="$game_8c.html#a80e5f55f92cdb6896057ded8f7c558ce" title="drawTime" alt="" coords="132,1171,209,1197"/>
+<area shape="rect" id="node48" href="$video__gr_8c.html#a0d30170602fb4469d105cd88e2fc8e44" title="Moves the content of the secondary framebuffer to the primary one. " alt="" coords="100,1297,241,1324"/>
+<area shape="rect" id="node49" href="$game_8c.html#afe5fb8cf29ba41e44f6e6f9d10ebce9f" title="Detects if user released ESC. " alt="" coords="125,1348,216,1375"/>
+<area shape="rect" id="node4" href="$video__gr_8c.html#a6e53d4eb63bda8743af0ba2dd5745e26" title="Draws a line on the secondary framebuffer. " alt="" coords="331,56,393,83"/>
+<area shape="rect" id="node5" href="$video__gr_8c.html#ad988b4817b9c37fb84fa86935707bdf4" title="round" alt="" coords="535,56,589,83"/>
+<area shape="rect" id="node9" href="$video__gr_8c.html#a79e4cb586f042c9742fd2728d3dc4442" title="Gets the current screen width in pixels. " alt="" coords="521,715,603,741"/>
+<area shape="rect" id="node10" href="$video__gr_8c.html#ab537ac2d6ef752e36b30281f9c08898a" title="Gets the current screen height in pixels. " alt="" coords="519,664,605,691"/>
+<area shape="rect" id="node11" href="$_misc_data_8c.html#a82720a2b823d80d3779a4d5c9d485249" title="Checks if 2 Rectangles overlap. " alt="" coords="689,537,800,564"/>
+<area shape="rect" id="node12" href="$_misc_data_8c.html#a1ee0fa4d30305c315ed229c7ce7a11d2" title="Checks if a Rectangle overlaps with any of an array of Rectangles. Rectangles from the array are obta..." alt="" coords="491,512,633,539"/>
+<area shape="rect" id="node14" href="$_misc_data_8c.html#a0e189cc5fabe5da26540ec5527c3761b" title="Gets the xpm&#39;s height in pixels. " alt="" coords="511,461,613,488"/>
+<area shape="rect" id="node17" href="$_r_t_c_8c.html#a2cb25523def15286362c6d408cf28e03" title="Gets the content of the 4 RTC status registers. " alt="" coords="318,309,406,336"/>
+<area shape="rect" id="node18" href="$timer_8c.html#ad515c1bcd6db12f2bd5b130c56f09bb2" title="Waits for n seconds to pass. Works independently of timer being already subscribed or not..." alt="" coords="312,259,412,285"/>
+<area shape="rect" id="node20" href="$_r_t_c_8c.html#a3c074a6bbf2ff2e1280c65ce2b6208c9" title="Converts a number from BCD to decimal. " alt="" coords="310,360,414,387"/>
+<area shape="rect" id="node23" href="$mouse_8c.html#a13c38962d4ef12e2718e86ee28ef7390" title="Gets mouse packet. " alt="" coords="296,867,428,893"/>
+<area shape="rect" id="node24" href="$mouse_8c.html#a99506573209b197b84ee22a228b89fbd" title="Subscribe the mouse. " alt="" coords="489,917,635,944"/>
+<area shape="rect" id="node25" href="$mouse_8c.html#acf825815861b85bbce8cd6aae8d7f44f" title="sendCmdToKBC" alt="" coords="503,816,621,843"/>
+<area shape="rect" id="node26" href="$mouse_8c.html#a685ad2706aca36d9869a30a19b9f446a" title="Unsubscribe the mouse. " alt="" coords="483,867,641,893"/>
+<area shape="rect" id="node28" href="$mouse_8c.html#a6635630be2282e6b10ef949750bca517" title="Detects movement overflow in a packet. " alt="" coords="305,613,419,640"/>
+<area shape="rect" id="node29" href="$mouse_8c.html#ad549bdec94dc8325f997ee28ec153c32" title="Detects if the left mouse button was pressed. " alt="" coords="291,664,433,691"/>
+<area shape="rect" id="node30" href="$mouse_8c.html#acca418664782cc21a3c86f64b00b2cb4" title="Detects if the middle mouse button was pressed. " alt="" coords="289,715,435,741"/>
+<area shape="rect" id="node31" href="$mouse_8c.html#a98bf6d53f8c993e6becdcd149336ea93" title="Detects if the right mouse button was pressed. " alt="" coords="291,765,433,792"/>
+<area shape="rect" id="node35" href="$_misc_data_8c.html#a704a99043c6b2c45111050ef1dc2f080" title="Gets the Direction from a point to another. " alt="" coords="301,917,423,944"/>
+<area shape="rect" id="node36" href="$_misc_data_8c.html#a6e17e60ff2b569bb361066d5c070760b" title="Gets top&#45;left Point2D from a Rectangle. " alt="" coords="319,968,405,995"/>
+<area shape="rect" id="node38" href="$game_8c.html#a09a81b6d9a2e9606364aa59ee7d9bac6" title="rangeIntersect" alt="" coords="310,1019,414,1045"/>
+<area shape="rect" id="node42" href="$game_8c.html#a30332a032aa0d847a8d4f480f67643a2" title="Gets the number of decimal slots of an unsigned integer. " alt="" coords="490,1145,634,1172"/>
+<area shape="rect" id="node43" href="$game_8c.html#a42eb4a7b566688a4d89871d03c564738" title="getDigit" alt="" coords="529,1044,595,1071"/>
+<area shape="rect" id="node44" href="$game_8c.html#ab83738d5eea64e512159e71412de2350" title="draw_digit" alt="" coords="522,1095,602,1121"/>
+<area shape="rect" id="node50" href="$keyboard_8c.html#a7411130de0c847a00aba0acc9b28d4d1" title="Detects if ESC was used. Distinguishes between pressing and releasing ESC, and checks for errors with..." alt="" coords="300,1348,424,1375"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="kbd_sendCmdToKBD" name="kbd_sendCmdToKBD">
+<area shape="rect" id="node2" href="$timer_8c.html#ad515c1bcd6db12f2bd5b130c56f09bb2" title="Waits for n seconds to pass. Works independently of timer being already subscribed or not..." alt="" coords="200,31,300,57"/>
+<area shape="rect" id="node3" href="$timer_8c.html#a4c5d9f47323eda494cfd826f6d62eec9" title="Subscribes and enables Timer 0 interrupts. " alt="" coords="355,5,490,32"/>
+<area shape="rect" id="node4" href="$timer_8c.html#ab9eea51549744bca5c5c923b388bb4ee" title="Unsubscribes Timer 0 interrupts. " alt="" coords="348,56,497,83"/>
+</map>

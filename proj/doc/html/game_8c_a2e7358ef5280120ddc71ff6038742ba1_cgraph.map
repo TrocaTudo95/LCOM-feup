@@ -1,0 +1,7 @@
+<map id="getDirection" name="getDirection">
+<area shape="rect" id="node2" href="$mouse_8c.html#a13c38962d4ef12e2718e86ee28ef7390" title="Gets mouse packet. " alt="" coords="144,81,276,108"/>
+<area shape="rect" id="node3" href="$mouse_8c.html#a99506573209b197b84ee22a228b89fbd" title="Subscribe the mouse. " alt="" coords="331,5,476,32"/>
+<area shape="rect" id="node4" href="$mouse_8c.html#acf825815861b85bbce8cd6aae8d7f44f" title="sendCmdToKBC" alt="" coords="344,56,463,83"/>
+<area shape="rect" id="node5" href="$mouse_8c.html#a685ad2706aca36d9869a30a19b9f446a" title="Unsubscribe the mouse. " alt="" coords="324,107,483,133"/>
+<area shape="rect" id="node6" href="$mouse_8c.html#a8b46ba0bbcfc9ea2e43aeb34f83f6083" title="get a byte form the OUT_BUF. " alt="" coords="338,157,469,184"/>
+</map>

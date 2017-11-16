@@ -1,0 +1,7 @@
+<map id="drawTime" name="drawTime">
+<area shape="rect" id="node2" href="$game_8c.html#aceeb4f4b1e827811f74229751ad869be" title="drawNumber" alt="" coords="131,81,225,108"/>
+<area shape="rect" id="node6" href="$video__gr_8c.html#a12c51ae3b27c47b03b64b29a0f3a9b76" title="Draws a xpm on the secondary framebuffer. VBE mode must be 0x105 (1024x768, 256 colors). " alt="" coords="465,132,565,159"/>
+<area shape="rect" id="node3" href="$game_8c.html#a30332a032aa0d847a8d4f480f67643a2" title="Gets the number of decimal slots of an unsigned integer. " alt="" coords="273,5,417,32"/>
+<area shape="rect" id="node4" href="$game_8c.html#a42eb4a7b566688a4d89871d03c564738" title="getDigit" alt="" coords="312,56,379,83"/>
+<area shape="rect" id="node5" href="$game_8c.html#ab83738d5eea64e512159e71412de2350" title="draw_digit" alt="" coords="305,107,385,133"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="vg_getPalette" name="vg_getPalette">
+<area shape="rect" id="node2" href="$group__lmlib.html#gae45d971ce2ffcf4dc2677eba033a92cd" title="Allocates a memory block in low memory area with the specified size. " alt="" coords="153,5,224,32"/>
+<area shape="rect" id="node3" href="$group__lmlib.html#ga73e89d9c297b7390021fb545513579c6" title="Frees a memory block in the low memory area, previously allocated using lm_alloc() ..." alt="" coords="157,56,221,83"/>
+</map>

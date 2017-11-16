@@ -1,0 +1,51 @@
+<map id="initial_menu" name="initial_menu">
+<area shape="rect" id="node2" href="$video__gr_8c.html#a14ce09cfc5851d7e34e7c90d96156d33" title="Maps the first Megabyte. " alt="" coords="170,5,259,32"/>
+<area shape="rect" id="node4" href="$group___bitmap.html#ga3506880ffd407c36eb8aaddd2c1606d2" title="Loads a bmp image. " alt="" coords="577,563,663,589"/>
+<area shape="rect" id="node5" href="$keyboard_8c.html#a77e2ed8f53e0fae3f4005fa26c6d2692" title="Subscribes the keyboard. If it&#39;s already subscribed, it prints an error message and returns &#45;1..." alt="" coords="151,1677,278,1704"/>
+<area shape="rect" id="node6" href="$video__gr_8c.html#acef21667c79365d57a084bed994c2189" title="Initializes the video module in graphics mode. " alt="" coords="379,360,437,387"/>
+<area shape="rect" id="node16" href="$video__gr_8c.html#ab537ac2d6ef752e36b30281f9c08898a" title="Gets the current screen height in pixels. " alt="" coords="764,816,851,843"/>
+<area shape="rect" id="node17" href="$group___bitmap.html#ga18d05a1c671f4638bc63d37874efb9d4" title="Draws an unscaled, unrotated bitmap at the given position. " alt="" coords="575,613,665,640"/>
+<area shape="rect" id="node18" href="$video__gr_8c.html#a79e4cb586f042c9742fd2728d3dc4442" title="Gets the current screen width in pixels. " alt="" coords="766,968,849,995"/>
+<area shape="rect" id="node20" href="$video__gr_8c.html#a0d30170602fb4469d105cd88e2fc8e44" title="Moves the content of the secondary framebuffer to the primary one. " alt="" coords="549,1019,691,1045"/>
+<area shape="rect" id="node21" href="$video__gr_8c.html#a9805b7e746b90143a74ad077d5d68223" title="Returns to default Minix 3 text mode (0x03: 25 x 80, 16 colors) " alt="" coords="377,1019,439,1045"/>
+<area shape="rect" id="node22" href="$keyboard_8c.html#a5bdf6cfb570c375192b0d87913b65c57" title="Unsubscribes the keyboard. If it&#39;s not initially subscribed, it prints an error message and returns &#45;..." alt="" coords="144,1728,285,1755"/>
+<area shape="rect" id="node23" href="$menu_8c.html#aa6db129cd4a72576f44714547c983b30" title="menu_options" alt="" coords="163,816,266,843"/>
+<area shape="rect" id="node27" href="$game_8c.html#a1135dc44ca37a222d1272be1ec4169b5" title="Starts the game, whole game is spent inside this function. " alt="" coords="191,1627,238,1653"/>
+<area shape="rect" id="node50" href="$menu_8c.html#aad59e6b2ddf8de98fd1bd7532ca949b8" title="game_over" alt="" coords="173,1779,257,1805"/>
+<area shape="rect" id="node3" href="$group__lmlib.html#ga00a9c17c01e794a6bfc80fc5c6ab1ed1" title="Initializes the low memory area, the region up to the 1 MByte physical address, by mapping it on the ..." alt="" coords="378,5,438,32"/>
+<area shape="rect" id="node7" href="$video__gr_8c.html#a436fda49ee5d41569f080dd625c317ec" title="initMemRange" alt="" coords="567,208,673,235"/>
+<area shape="rect" id="node8" href="$vbe_8c.html#ab743fa2a1aed490cd8c1ee34b3c35892" title="Returns information on the input VBE mode, including screen dimensions, color depth and VRAM physical..." alt="" coords="554,259,686,285"/>
+<area shape="rect" id="node9" href="$video__gr_8c.html#a357e03375004c4f8009d7266c59f1180" title="getMemRange" alt="" coords="567,309,673,336"/>
+<area shape="rect" id="node10" href="$video__gr_8c.html#a7ad25906a88377dabbff804226dfefa9" title="newMemRange" alt="" coords="565,360,675,387"/>
+<area shape="rect" id="node11" href="$video__gr_8c.html#a546d3f2db0299649fc003136c54b7eb9" title="getPrimaryBufferFromArray" alt="" coords="531,411,709,437"/>
+<area shape="rect" id="node12" href="$video__gr_8c.html#acaec67a3935f8633369de4e1dd7a6162" title="newBuffer" alt="" coords="581,461,659,488"/>
+<area shape="rect" id="node13" href="$video__gr_8c.html#a6749fb65d33f9c48b7f08b22a9837cd9" title="getSecBufferFromArray" alt="" coords="541,512,699,539"/>
+<area shape="rect" id="node14" href="$video__gr_8c.html#a1e3ca998dbdc63970a75fe220745710b" title="Paints the screen with the background color. " alt="" coords="563,107,677,133"/>
+<area shape="rect" id="node15" href="$group__lmlib.html#ga73e89d9c297b7390021fb545513579c6" title="Frees a memory block in the low memory area, previously allocated using lm_alloc() ..." alt="" coords="588,157,652,184"/>
+<area shape="rect" id="node19" href="$video__gr_8c.html#a7b593866d2afe0231639328c367f70e6" title="Gets the current address of the secondary framebuffer. " alt="" coords="759,613,855,640"/>
+<area shape="rect" id="node24" href="$group___bitmap.html#ga08c1d4f4fff81df260d979ea8fc1aa61" title="Destroys the given bitmap, freeing all resources used by it. " alt="" coords="571,765,669,792"/>
+<area shape="rect" id="node25" href="$menu_8c.html#af1f2f0f87ebb9e578bcae2c2ad0229e2" title="Displays the menu to choose the difficulty. Uses keyboard interruptions to select an option..." alt="" coords="354,715,462,741"/>
+<area shape="rect" id="node26" href="$menu_8c.html#a69c81abf74e611f63911210ed9ca6f2d" title="Displays the menu to choose the resolution. Uses keyboard interruptions to select an option..." alt="" coords="349,816,467,843"/>
+<area shape="rect" id="node28" href="$_snake_8c.html#a59243847827d4d9cffd89d18c4eae963" title="Creates a new Snake. Undefined start position, orientation and head xpm. Reserved memory for body len..." alt="" coords="367,2259,449,2285"/>
+<area shape="rect" id="node29" href="$game_8c.html#a4e3a822db37d5376e0c410d46bc13f95" title="draw_borders" alt="" coords="359,2309,457,2336"/>
+<area shape="rect" id="node30" href="$_snake_8c.html#a0f9200e633d8881b036e91a74f724111" title="Rotates Snake head to the required orientation. " alt="" coords="363,1221,453,1248"/>
+<area shape="rect" id="node31" href="$video__gr_8c.html#a12c51ae3b27c47b03b64b29a0f3a9b76" title="Draws a xpm on the secondary framebuffer. VBE mode must be 0x105 (1024x768, 256 colors). " alt="" coords="757,1792,857,1819"/>
+<area shape="rect" id="node32" href="$game_8c.html#a62a3814f8bbc6649a68e219656dce12e" title="spawnEat" alt="" coords="581,1449,659,1476"/>
+<area shape="rect" id="node33" href="$_misc_data_8c.html#a159add91e9238a8fd839fac3c9b44c62" title="Gets the xpm&#39;s width in pixels. " alt="" coords="758,1525,857,1552"/>
+<area shape="rect" id="node34" href="$timer_8c.html#a4c5d9f47323eda494cfd826f6d62eec9" title="Subscribes and enables Timer 0 interrupts. " alt="" coords="341,1728,475,1755"/>
+<area shape="rect" id="node35" href="$_r_t_c_8c.html#a60bc069037718ff393ef68518a97ee9f" title="Get the current time. " alt="" coords="374,1779,442,1805"/>
+<area shape="rect" id="node36" href="$_snake_8c.html#ac341aeda030feec90f77de0842bfed94" title="Creates a copy of a given Snake. New Snake is independent of the previous one. " alt="" coords="365,1904,451,1931"/>
+<area shape="rect" id="node37" href="$game_8c.html#a2e7358ef5280120ddc71ff6038742ba1" title="Gets the direction from the mouse&#39;s movement. " alt="" coords="363,1955,453,1981"/>
+<area shape="rect" id="node38" href="$game_8c.html#a1475766375ddb4fdb7521175fda75d0c" title="treatMouseButtons" alt="" coords="342,1424,474,1451"/>
+<area shape="rect" id="node39" href="$video__gr_8c.html#a71665198bce1c277a0c2fb74450b3589" title="Replaces drawn xpm with the background color. " alt="" coords="569,1373,671,1400"/>
+<area shape="rect" id="node40" href="$game_8c.html#a0d69915eafbccbc3f68f2ed81c7aaac1" title="updateSnakePos" alt="" coords="559,1069,681,1096"/>
+<area shape="rect" id="node41" href="$timer_8c.html#ab9eea51549744bca5c5c923b388bb4ee" title="Unsubscribes Timer 0 interrupts. " alt="" coords="333,2005,483,2032"/>
+<area shape="rect" id="node42" href="$_snake_8c.html#a668456423c867d2bdb4b59384725dc5e" title="Updates Snake head and body orientations for the next frame. " alt="" coords="363,2107,453,2133"/>
+<area shape="rect" id="node43" href="$game_8c.html#ac3592cbd74cbc1fc7e990687e22195bb" title="canEat" alt="" coords="377,2157,439,2184"/>
+<area shape="rect" id="node44" href="$_r_t_c_8c.html#a7657f694aac7ff1390fbb67414d6d757" title="Adds one second to a given time. " alt="" coords="355,2208,461,2235"/>
+<area shape="rect" id="node45" href="$_snake_8c.html#abe208f4454ff381002d2b233430471d8" title="Adds a body section to a given Snake. If Snake has no body, it is added behind the head..." alt="" coords="583,1525,657,1552"/>
+<area shape="rect" id="node46" href="$game_8c.html#aceeb4f4b1e827811f74229751ad869be" title="drawNumber" alt="" coords="573,1652,667,1679"/>
+<area shape="rect" id="node47" href="$_snake_8c.html#a9bba9f95efe6b798bc9885d6ba97dbdd" title="Clears a Snake&#39;s body. " alt="" coords="361,1373,455,1400"/>
+<area shape="rect" id="node48" href="$_snake_8c.html#aa45b920c369b139c0dfd8c3eebfea13d" title="Draws a Snake&#39;s body. " alt="" coords="581,1968,659,1995"/>
+<area shape="rect" id="node49" href="$game_8c.html#a80e5f55f92cdb6896057ded8f7c558ce" title="drawTime" alt="" coords="369,1677,447,1704"/>
+</map>

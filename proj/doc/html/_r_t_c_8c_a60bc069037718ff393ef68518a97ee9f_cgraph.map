@@ -1,0 +1,7 @@
+<map id="getTime" name="getTime">
+<area shape="rect" id="node2" href="$_r_t_c_8c.html#a2cb25523def15286362c6d408cf28e03" title="Gets the content of the 4 RTC status registers. " alt="" coords="129,5,217,32"/>
+<area shape="rect" id="node3" href="$timer_8c.html#ad515c1bcd6db12f2bd5b130c56f09bb2" title="Waits for n seconds to pass. Works independently of timer being already subscribed or not..." alt="" coords="123,56,223,83"/>
+<area shape="rect" id="node6" href="$_r_t_c_8c.html#a3c074a6bbf2ff2e1280c65ce2b6208c9" title="Converts a number from BCD to decimal. " alt="" coords="121,107,225,133"/>
+<area shape="rect" id="node4" href="$timer_8c.html#a4c5d9f47323eda494cfd826f6d62eec9" title="Subscribes and enables Timer 0 interrupts. " alt="" coords="281,31,415,57"/>
+<area shape="rect" id="node5" href="$timer_8c.html#ab9eea51549744bca5c5c923b388bb4ee" title="Unsubscribes Timer 0 interrupts. " alt="" coords="273,81,423,108"/>
+</map>

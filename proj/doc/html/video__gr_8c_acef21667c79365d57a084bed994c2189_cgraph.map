@@ -1,0 +1,12 @@
+<map id="vg_init" name="vg_init">
+<area shape="rect" id="node2" href="$video__gr_8c.html#a436fda49ee5d41569f080dd625c317ec" title="initMemRange" alt="" coords="149,5,254,32"/>
+<area shape="rect" id="node3" href="$vbe_8c.html#ab743fa2a1aed490cd8c1ee34b3c35892" title="Returns information on the input VBE mode, including screen dimensions, color depth and VRAM physical..." alt="" coords="135,56,267,83"/>
+<area shape="rect" id="node5" href="$video__gr_8c.html#a357e03375004c4f8009d7266c59f1180" title="getMemRange" alt="" coords="148,107,255,133"/>
+<area shape="rect" id="node6" href="$video__gr_8c.html#a7ad25906a88377dabbff804226dfefa9" title="newMemRange" alt="" coords="146,157,257,184"/>
+<area shape="rect" id="node7" href="$video__gr_8c.html#a546d3f2db0299649fc003136c54b7eb9" title="getPrimaryBufferFromArray" alt="" coords="112,208,291,235"/>
+<area shape="rect" id="node8" href="$video__gr_8c.html#acaec67a3935f8633369de4e1dd7a6162" title="newBuffer" alt="" coords="162,259,241,285"/>
+<area shape="rect" id="node9" href="$video__gr_8c.html#a6749fb65d33f9c48b7f08b22a9837cd9" title="getSecBufferFromArray" alt="" coords="123,309,280,336"/>
+<area shape="rect" id="node10" href="$video__gr_8c.html#a1e3ca998dbdc63970a75fe220745710b" title="Paints the screen with the background color. " alt="" coords="144,360,259,387"/>
+<area shape="rect" id="node11" href="$group__lmlib.html#ga73e89d9c297b7390021fb545513579c6" title="Frees a memory block in the low memory area, previously allocated using lm_alloc() ..." alt="" coords="169,411,233,437"/>
+<area shape="rect" id="node4" href="$group__lmlib.html#gae45d971ce2ffcf4dc2677eba033a92cd" title="Allocates a memory block in low memory area with the specified size. " alt="" coords="339,56,409,83"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="vg_move_xpm" name="vg_move_xpm">
+<area shape="rect" id="node2" href="$video__gr_8c.html#a71665198bce1c277a0c2fb74450b3589" title="Replaces drawn xpm with the background color. " alt="" coords="167,5,269,32"/>
+<area shape="rect" id="node3" href="$video__gr_8c.html#a12c51ae3b27c47b03b64b29a0f3a9b76" title="Draws a xpm on the secondary framebuffer. VBE mode must be 0x105 (1024x768, 256 colors). " alt="" coords="168,56,268,83"/>
+<area shape="rect" id="node4" href="$video__gr_8c.html#ad988b4817b9c37fb84fa86935707bdf4" title="round" alt="" coords="191,107,245,133"/>
+<area shape="rect" id="node5" href="$video__gr_8c.html#a79e4cb586f042c9742fd2728d3dc4442" title="Gets the current screen width in pixels. " alt="" coords="177,157,259,184"/>
+<area shape="rect" id="node6" href="$video__gr_8c.html#ab537ac2d6ef752e36b30281f9c08898a" title="Gets the current screen height in pixels. " alt="" coords="175,208,261,235"/>
+<area shape="rect" id="node7" href="$keyboard_8c.html#a7411130de0c847a00aba0acc9b28d4d1" title="Detects if ESC was used. Distinguishes between pressing and releasing ESC, and checks for errors with..." alt="" coords="156,259,280,285"/>
+<area shape="rect" id="node8" href="$timer_8c.html#ad515c1bcd6db12f2bd5b130c56f09bb2" title="Waits for n seconds to pass. Works independently of timer being already subscribed or not..." alt="" coords="168,309,268,336"/>
+<area shape="rect" id="node9" href="$timer_8c.html#a4c5d9f47323eda494cfd826f6d62eec9" title="Subscribes and enables Timer 0 interrupts. " alt="" coords="335,284,470,311"/>
+<area shape="rect" id="node10" href="$timer_8c.html#ab9eea51549744bca5c5c923b388bb4ee" title="Unsubscribes Timer 0 interrupts. " alt="" coords="328,335,477,361"/>
+</map>

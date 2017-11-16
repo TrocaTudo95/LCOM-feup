@@ -1,0 +1,4 @@
+<map id="waitByTimer0" name="waitByTimer0">
+<area shape="rect" id="node2" href="$timer_8c.html#a4c5d9f47323eda494cfd826f6d62eec9" title="Subscribes and enables Timer 0 interrupts. " alt="" coords="161,5,295,32"/>
+<area shape="rect" id="node3" href="$timer_8c.html#ab9eea51549744bca5c5c923b388bb4ee" title="Unsubscribes Timer 0 interrupts. " alt="" coords="153,56,303,83"/>
+</map>

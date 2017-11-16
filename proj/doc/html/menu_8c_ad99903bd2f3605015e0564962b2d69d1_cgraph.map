@@ -1,0 +1,8 @@
+<map id="draw_digit_bmp" name="draw_digit_bmp">
+<area shape="rect" id="node2" href="$group___bitmap.html#ga3506880ffd407c36eb8aaddd2c1606d2" title="Loads a bmp image. " alt="" coords="171,5,258,32"/>
+<area shape="rect" id="node3" href="$group___bitmap.html#ga18d05a1c671f4638bc63d37874efb9d4" title="Draws an unscaled, unrotated bitmap at the given position. " alt="" coords="169,56,260,83"/>
+<area shape="rect" id="node7" href="$group___bitmap.html#ga08c1d4f4fff81df260d979ea8fc1aa61" title="Destroys the given bitmap, freeing all resources used by it. " alt="" coords="165,107,264,133"/>
+<area shape="rect" id="node4" href="$video__gr_8c.html#a79e4cb586f042c9742fd2728d3dc4442" title="Gets the current screen width in pixels. " alt="" coords="319,5,401,32"/>
+<area shape="rect" id="node5" href="$video__gr_8c.html#ab537ac2d6ef752e36b30281f9c08898a" title="Gets the current screen height in pixels. " alt="" coords="317,56,403,83"/>
+<area shape="rect" id="node6" href="$video__gr_8c.html#a7b593866d2afe0231639328c367f70e6" title="Gets the current address of the secondary framebuffer. " alt="" coords="312,107,408,133"/>
+</map>

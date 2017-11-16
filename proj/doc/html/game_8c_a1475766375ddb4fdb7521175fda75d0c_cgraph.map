@@ -1,0 +1,15 @@
+<map id="treatMouseButtons" name="treatMouseButtons">
+<area shape="rect" id="node2" href="$mouse_8c.html#a6635630be2282e6b10ef949750bca517" title="Detects movement overflow in a packet. " alt="" coords="201,5,315,32"/>
+<area shape="rect" id="node3" href="$mouse_8c.html#ad549bdec94dc8325f997ee28ec153c32" title="Detects if the left mouse button was pressed. " alt="" coords="187,56,329,83"/>
+<area shape="rect" id="node4" href="$mouse_8c.html#acca418664782cc21a3c86f64b00b2cb4" title="Detects if the middle mouse button was pressed. " alt="" coords="185,107,331,133"/>
+<area shape="rect" id="node5" href="$mouse_8c.html#a98bf6d53f8c993e6becdcd149336ea93" title="Detects if the right mouse button was pressed. " alt="" coords="187,157,329,184"/>
+<area shape="rect" id="node6" href="$video__gr_8c.html#a71665198bce1c277a0c2fb74450b3589" title="Replaces drawn xpm with the background color. " alt="" coords="207,208,309,235"/>
+<area shape="rect" id="node7" href="$game_8c.html#a62a3814f8bbc6649a68e219656dce12e" title="spawnEat" alt="" coords="219,259,297,285"/>
+<area shape="rect" id="node8" href="$video__gr_8c.html#a79e4cb586f042c9742fd2728d3dc4442" title="Gets the current screen width in pixels. " alt="" coords="408,107,491,133"/>
+<area shape="rect" id="node9" href="$video__gr_8c.html#ab537ac2d6ef752e36b30281f9c08898a" title="Gets the current screen height in pixels. " alt="" coords="406,157,493,184"/>
+<area shape="rect" id="node10" href="$_misc_data_8c.html#a82720a2b823d80d3779a4d5c9d485249" title="Checks if 2 Rectangles overlap. " alt="" coords="568,233,679,260"/>
+<area shape="rect" id="node11" href="$_misc_data_8c.html#a1ee0fa4d30305c315ed229c7ce7a11d2" title="Checks if a Rectangle overlaps with any of an array of Rectangles. Rectangles from the array are obta..." alt="" coords="379,259,520,285"/>
+<area shape="rect" id="node12" href="$_misc_data_8c.html#a159add91e9238a8fd839fac3c9b44c62" title="Gets the xpm&#39;s width in pixels. " alt="" coords="400,309,499,336"/>
+<area shape="rect" id="node13" href="$_misc_data_8c.html#a0e189cc5fabe5da26540ec5527c3761b" title="Gets the xpm&#39;s height in pixels. " alt="" coords="398,360,501,387"/>
+<area shape="rect" id="node14" href="$video__gr_8c.html#a12c51ae3b27c47b03b64b29a0f3a9b76" title="Draws a xpm on the secondary framebuffer. VBE mode must be 0x105 (1024x768, 256 colors). " alt="" coords="399,411,499,437"/>
+</map>
